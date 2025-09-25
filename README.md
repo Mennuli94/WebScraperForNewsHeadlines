@@ -1,0 +1,2 @@
+# WebScraperForNewsHeadlines
+Webscaperfor news headlines
